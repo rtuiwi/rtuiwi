@@ -1,16 +1,24 @@
-## Hi there 👋
+![rtuiwi — code / tools / experiments](assets/header.png)
 
-<!--
-**rtuiwi/rtuiwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Привет, я rtuiwi.
 
-Here are some ideas to get you started:
+Создаю приложения и инструменты, которые решают повседневные задачи.
+Локальные программы, автоматизация и эксперименты с данными.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Python** · **JavaScript** · **HTML / CSS** · **AppleScript**
+
+---
+
+### Проект
+
+[SoundCloud → «Музыка»](https://github.com/rtuiwi/soundcloud-to-apple-music) — приложение для Mac: выбирает треки из Likes и плейлистов SoundCloud и импортирует аудио с обложками в локальную медиатеку «Музыка».
+
+---
+
+### На связи
+
+[Telegram ↗](https://t.me/rtuiwi) · [TikTok ↗](https://tiktok.com/@rtuiwi) · [Репозитории ↗](https://github.com/rtuiwi?tab=repositories)
+
+<br>
+
+![stay curious. — героиня DEAD MEMORY](assets/footer.png)
